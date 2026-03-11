@@ -50,3 +50,17 @@ These insights can help businesses make better decisions related to marketing, i
 The project includes several visualizations such as:
 Monthly Sales Trend (Line Chart)
 Top 10 Products by Sales (Bar Chart)
+
+📁 Project Structure
+sales-data-analysis-project
+│
+├── sales_data.csv → Dataset used for analysis
+├── sales_analysis.ipynb → Jupyter Notebook containing code and analysis
+├── monthly_sales.png → Sales trend visualization
+├── top_products.png → Top product chart
+├── sales_region.png → Regional sales chart
+└── README.md → Project documentation
+
+👩‍💻 Author
+Kona Venkata Naga Durgadevi
+This project was created as part of learning data analytics and building a portfolio of data analysis projects.
